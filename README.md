@@ -1,6 +1,6 @@
 # Instagram Automation
 
-This programs automates commonly used functions on Instagram.
+This program automates commonly used functions on Instagram.
 
 ## Prerequistes 
 
