@@ -26,4 +26,4 @@ You will need to install:
 
 ## Authors
 
-**Joshua McDonald** - *Initial work* - [joshMD](https://github.com/joshhMD)
+**Joshua McDonald** - *Initial work* - [joshhMD](https://github.com/joshhMD)
